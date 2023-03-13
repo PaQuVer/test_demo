@@ -1,1 +1,1 @@
-Esto es una demo de testeo para el primer repositorio de git
+Esto es una demo de testeo para el segundo repositorio de git
